@@ -15,5 +15,6 @@ body {
     /*   curve-text: 45deg; */
     color: rosybrown;
     font-family: 'ClashDisplay-Semibold';
+    filter: drop-shadow(0 0 1rem #000);
   }
   
